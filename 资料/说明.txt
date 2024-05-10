@@ -1,0 +1,4 @@
+1、完成代码规范阅读；
+2、common的头文件及静态库在common文件夹中，静态库提供了x86的release和debug版本；
+3、common/demo/下提供了common库的使用示例，可直接编译运行；
+4、完成代码规范阅读以及common库接口熟悉后，即可开始练习题编写。
