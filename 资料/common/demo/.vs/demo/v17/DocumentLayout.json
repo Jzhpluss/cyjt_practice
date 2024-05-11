@@ -3,15 +3,8 @@
   "WorkspaceRootPath": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\Release\\demo.log||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|solutionrelative:demo\\Release\\demo.log||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\source\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|solutionrelative:demo\\source\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|D:\\WINDOWS KITS\\8.1\\INCLUDE\\UM\\WINNT.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "demo.log",
-              "DocumentMoniker": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\Release\\demo.log",
-              "RelativeDocumentMoniker": "demo\\Release\\demo.log",
-              "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\Release\\demo.log",
-              "RelativeToolTip": "demo\\Release\\demo.log",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-05-10T07:41:23.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "winnt.h",
-              "DocumentMoniker": "D:\\Windows Kits\\8.1\\Include\\um\\winnt.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Windows Kits\\8.1\\Include\\um\\winnt.h",
-              "ToolTip": "D:\\Windows Kits\\8.1\\Include\\um\\winnt.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Windows Kits\\8.1\\Include\\um\\winnt.h",
-              "ViewState": "AQIAABEAAAAAAAAAAIAywB4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-10T07:30:52.176Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Test.cpp",
               "DocumentMoniker": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\source\\Test.cpp",
               "RelativeDocumentMoniker": "demo\\source\\Test.cpp",
               "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\source\\Test.cpp",
               "RelativeToolTip": "demo\\source\\Test.cpp",
-              "ViewState": "AQIAACoAAAAAAAAAAAAMwDoAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-10T07:29:40.866Z",
+              "WhenOpened": "2024-05-11T08:23:26.247Z",
               "EditorCaption": ""
             }
           ]

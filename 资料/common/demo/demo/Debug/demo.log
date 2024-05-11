@@ -1,17 +1,16 @@
 ﻿  Test.cpp
-common.lib(File.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(File.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(FileConfig.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(FileConfig.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(IPAddress.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(IPAddress.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(Locks.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(Locks.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(Logger.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(Logger.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(Network.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(Network.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(OSTime.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(OSTime.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(Semaphore.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(Semaphore.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(SockAddress.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(SockAddress.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(Socket.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(Socket.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(SysUtils.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(SysUtils.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(Thread.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(Thread.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
-common.lib(UDPSocket.obj) : warning LNK4099: 未找到 PDB“”(使用“common.lib(UDPSocket.obj)”或在“”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(File.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(File.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(FileConfig.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(FileConfig.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(IPAddress.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(IPAddress.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(Locks.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(Locks.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(Logger.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(Logger.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(Network.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(Network.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(OSTime.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(OSTime.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(Semaphore.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(Semaphore.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(SockAddress.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(SockAddress.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(Socket.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(Socket.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(SysUtils.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(SysUtils.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(Thread.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(Thread.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+common.lib(UDPSocket.obj) : warning LNK4099: 未找到 PDB“vc140.pdb”(使用“common.lib(UDPSocket.obj)”或在“D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\vc140.pdb”中寻找)；正在链接对象，如同没有调试信息一样
   demo.vcxproj -> D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\demo.exe
-  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
-  或批处理文件。
+  demo.vcxproj -> D:\project\cyjt_cpp_20240510\cyjt_practice\资料\common\demo\bin\Debug\demo.pdb (Full PDB)
