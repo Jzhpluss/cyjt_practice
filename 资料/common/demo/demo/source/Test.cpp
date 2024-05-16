@@ -62,7 +62,7 @@ int main(int argc, char * argv[])
 #ifdef WIN32
 	std::list<UDPSocket *> udplist;
 
-	for (TZ_UINT idx = 0; idx < 2024; ++idx)
+	for (TZ_UINT idx = 0; idx < 20 /*2024*/; ++idx)
 	{
 		UDPSocket * sock = new UDPSocket();
 		TZ_INT ret = sock->SelectForRead(40000);
@@ -80,6 +80,7 @@ int main(int argc, char * argv[])
 	ExtraThread * extraThread = new ExtraThread();
 
 	TZ_Uint32 port = tzc::SysUtils::GetAvailPortTCP("10.1.60.68", 60000, 60500);
+	port = 1;
 	if (port == 0)
 	{
 		TZLogWarn("get tcp avail port failed!!!");
@@ -98,7 +99,7 @@ int main(int argc, char * argv[])
 
 	TZ_Uint32 idx = 0;
 
-	while (TRUE)
+	while (!TRUE)
 	{
 		TZLogInfo("this is log line %d~~~~", idx++);
 
@@ -175,7 +176,7 @@ int main(int argc, char * argv[])
 
 	fc.Initialize();
 
-	std::string value;
+	std::string value = "test";
 
 	fc.SetValue("vendor", "test");
 	TZLogInfo("key = vendor, value = %s~~~", value.c_str());

@@ -5,6 +5,31 @@
     {
       "AbsoluteMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\source\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|solutionrelative:demo\\source\\Test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|D:\\PROJECT\\CYJT_CPP_20240510\\CYJT_PRACTICE\\\u8D44\u6599\\COMMON\\X86\\INCLUDE\\UDPSOCKET.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|D:\\PROJECT\\CYJT_CPP_20240510\\CYJT_PRACTICE\\\u8D44\u6599\\COMMON\\X86\\INCLUDE\\BASECALLS.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\source\\UDPScoketTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|solutionrelative:demo\\source\\UDPScoketTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41656F9B-1E37-4138-9C2A-6B95D1D207DE}|demo\\demo.vcxproj|D:\\PROJECT\\CYJT_CPP_20240510\\CYJT_PRACTICE\\\u8D44\u6599\\COMMON\\X86\\INCLUDE\\BASETYPES.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\BaseHeaders.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\SysUtils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\Types.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\BytesOrder.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +39,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 280,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UDPScoketTest.cpp",
+              "DocumentMoniker": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\source\\UDPScoketTest.cpp",
+              "RelativeDocumentMoniker": "demo\\source\\UDPScoketTest.cpp",
+              "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\source\\UDPScoketTest.cpp",
+              "RelativeToolTip": "demo\\source\\UDPScoketTest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-16T09:40:57.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Types.h",
+              "DocumentMoniker": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\Types.h",
+              "RelativeDocumentMoniker": "..\\x86\\include\\Types.h",
+              "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\Types.h",
+              "RelativeToolTip": "..\\x86\\include\\Types.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T09:34:13.31Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,10 +74,85 @@
               "RelativeDocumentMoniker": "demo\\source\\Test.cpp",
               "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\demo\\demo\\source\\Test.cpp",
               "RelativeToolTip": "demo\\source\\Test.cpp",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAAMAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAALYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-05-11T08:23:26.247Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UDPSocket.h",
+              "DocumentMoniker": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\UDPSocket.h",
+              "RelativeDocumentMoniker": "..\\x86\\include\\UDPSocket.h",
+              "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\UDPSocket.h",
+              "RelativeToolTip": "..\\x86\\include\\UDPSocket.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA4wBcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-16T09:50:01.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseCalls.h",
+              "DocumentMoniker": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\BaseCalls.h",
+              "RelativeDocumentMoniker": "..\\x86\\include\\BaseCalls.h",
+              "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\BaseCalls.h",
+              "RelativeToolTip": "..\\x86\\include\\BaseCalls.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAIA5wAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T09:35:01.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaseTypes.h",
+              "DocumentMoniker": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\BaseTypes.h",
+              "RelativeDocumentMoniker": "..\\x86\\include\\BaseTypes.h",
+              "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\BaseTypes.h",
+              "RelativeToolTip": "..\\x86\\include\\BaseTypes.h",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAqwFoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T09:34:19.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseHeaders.h",
+              "DocumentMoniker": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\BaseHeaders.h",
+              "RelativeDocumentMoniker": "..\\x86\\include\\BaseHeaders.h",
+              "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\BaseHeaders.h",
+              "RelativeToolTip": "..\\x86\\include\\BaseHeaders.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T09:34:36.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SysUtils.h",
+              "DocumentMoniker": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\SysUtils.h",
+              "RelativeDocumentMoniker": "..\\x86\\include\\SysUtils.h",
+              "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\SysUtils.h",
+              "RelativeToolTip": "..\\x86\\include\\SysUtils.h",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAAAE4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-13T09:13:04.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BytesOrder.h",
+              "DocumentMoniker": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\BytesOrder.h",
+              "RelativeDocumentMoniker": "..\\x86\\include\\BytesOrder.h",
+              "ToolTip": "D:\\project\\cyjt_cpp_20240510\\cyjt_practice\\\u8D44\u6599\\common\\x86\\include\\BytesOrder.h",
+              "RelativeToolTip": "..\\x86\\include\\BytesOrder.h",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-15T09:38:16.572Z"
             }
           ]
         }
